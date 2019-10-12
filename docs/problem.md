@@ -3,7 +3,7 @@
  * @Author: hailong.chen
  * @Date: 2019-10-12 09:54:47
  * @LastEditors: hailong.chen
- * @LastEditTime: 2019-10-12 10:09:35
+ * @LastEditTime: 2019-10-12 10:12:12
  * @Descripttion: 
  -->
  ### 面向未来开发
@@ -12,4 +12,4 @@
 - 解决：此项目是为了测试 elementui 与 图表 插件使用，可视化是多数应用必不可少的一部分
 2. 可视化
 - 问题：可视化插件选取，
-- 解决社区中charts插件很多，功能较全，外观优雅的当属f2
+- 解决：社区中charts插件很多，功能较全，外观优雅的当属f2
